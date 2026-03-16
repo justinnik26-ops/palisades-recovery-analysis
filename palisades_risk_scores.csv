@@ -1,0 +1,21 @@
+,business_name,zip_code,in_burn_zone,sba_loan_approved,high_closure_industry,no_yelp_activity,under_3_years_old,risk_score,risk_tier
+1,PCH Dry Cleaners,90272,1,0,1,1,1,100,HIGH RISK
+2,Palisades Nail Salon,90272,1,0,1,1,1,100,HIGH RISK
+3,Beach Bike Rentals,90272,1,0,1,1,1,100,HIGH RISK
+4,Pacific Pilates,90049,1,0,1,1,1,100,HIGH RISK
+5,Palisades Thai Kitchen,90272,1,0,1,1,1,100,HIGH RISK
+6,PCH Surf Shop,90272,1,0,1,1,1,100,HIGH RISK
+7,Sunset Deli,90272,1,0,1,1,0,90,HIGH RISK
+8,Palisades Pizza,90272,1,0,1,0,0,75,HIGH RISK
+9,Sunset Hardware,90272,1,0,0,1,0,70,HIGH RISK
+10,Palisades Coffee Co,90272,1,1,1,0,1,60,MEDIUM RISK
+11,Palisades Bookstore,90049,0,1,1,1,1,45,MEDIUM RISK
+12,Palisades Yoga Studio,90272,0,1,1,1,1,45,MEDIUM RISK
+13,Village Pharmacy,90272,1,1,0,0,0,30,LOW RISK
+14,Sunset Barber Shop,90272,1,1,0,0,0,30,LOW RISK
+15,Topanga Canyon Florist,90049,0,1,1,0,0,20,LOW RISK
+16,Brentwood Pet Grooming,90049,0,1,1,0,0,20,LOW RISK
+17,Village Wine Bar,90049,0,1,1,0,0,20,LOW RISK
+18,Pacific Auto Repair,90049,0,1,0,0,0,0,LOW RISK
+19,Sunset Gym,90049,0,1,0,0,0,0,LOW RISK
+20,Pacific Dental,90049,0,1,0,0,0,0,LOW RISK
