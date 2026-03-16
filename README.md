@@ -73,3 +73,16 @@ next disaster too, whether that's another wildfire, a hurricane, or a flood.
 
 The idea is that a recovery coordinator anywhere in the country could run 
 this within 30 days of a disaster being declared.
+
+## Risk Score Output
+
+The chart below shows all 20 businesses in the Palisades fire zone ranked 
+by their recovery risk score. Red bars indicate high risk of permanent 
+closure, orange is medium risk, and green is low risk.
+
+![Palisades Risk Chart](palisades_risk_chart.png)
+
+## Output Data
+
+The full ranked dataset with risk scores and risk tiers for all 20 businesses 
+is saved in `palisades_risk_scores.csv` in this repository.
